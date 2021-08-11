@@ -1,0 +1,5 @@
+Name: Dipesh Wagle
+*****************
+Book Name		 Author		Price		Days Borrowed		Fine
+
+Total										$0

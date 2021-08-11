@@ -1,0 +1,6 @@
+B001,Harry Potter,JK Rowling,0,$4
+B002,Start with Why,Simon Sinek,10,$6.5
+B003,Anna Karenina,Leo Tolstoy,5,$8.5
+B004,Madame Bovary,Gustave Flaubert,8,$4.7
+B005,War and Peace,Leo Tolstoy,25,$16.9
+B006,Information System,Bibek,20,$5
